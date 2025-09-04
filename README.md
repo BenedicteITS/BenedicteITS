@@ -39,7 +39,7 @@
 ---
 
 ## 📫 Get in Touch
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:youremail@example.com)
+[LinkedIn](https://linkedin.com/in/benedicteskudvig) • [Email](mailto:benedicte.i.t.s@hotmail.com)
 
 ---
 
