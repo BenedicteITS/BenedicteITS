@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Benedicte 👋
 
-<!--
-**BenedicteITS/BenedicteITS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final-year student at Høyskolen Kristiania**, specializing in **Frontend and Mobile Development**.  
+💻 Passionate about creating intuitive, user‑friendly applications and exploring both web and mobile technologies.  
+📍 Based in Norway | 🌍 Open to remote opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Technologies I've Worked With:**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+
+**Currently Learning:**
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=fff)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=fff)
+
+---
+
+## 📌 Featured Projects
+- [**Project Name**](https://github.com/yourusername/project) – Short description of what it does and why it’s interesting
+- [**Another Project**](https://github.com/yourusername/project2) – Short description
+
+---
+
+## 📊 GitHub Stats
+![Benedicte's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+
+---
+
+## 📫 Get in Touch
+[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:youremail@example.com)
+
+---
+
+✨ *"Code is like art – it’s about creating something that works beautifully and inspires others."*
