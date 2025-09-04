@@ -26,12 +26,6 @@
 
 ---
 
-## 📌 Featured Projects
-- [**Project Name**](https://github.com/yourusername/project) – Short description of what it does and why it’s interesting
-- [**Another Project**](https://github.com/yourusername/project2) – Short description
-
----
-
 ## 📊 GitHub Stats
 ![Benedicte's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENEDICTEITS&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BENEDICTEITS&layout=compact&theme=radical)
@@ -39,8 +33,8 @@
 ---
 
 ## 📫 Get in Touch
-[LinkedIn](linkedin.com/in/benedicte-skudvig) • [Email](mailto:benedicte.i.t.s@hotmail.com)
+[LinkedIn](www.linkedin.com/in/benedicte-skudvig) • [Email](mailto:benedicte.i.t.s@hotmail.com)
 
 ---
 
-✨ *"Code is like art – it’s about creating something that works beautifully and inspires others."*
+✨ *"Code is like art – Flow is everything"*
